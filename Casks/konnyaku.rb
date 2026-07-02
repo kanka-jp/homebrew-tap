@@ -7,7 +7,7 @@ cask "konnyaku" do
   desc "リアルタイム音声翻訳字幕オーバーレイ"
   homepage "https://github.com/kanka-jp/konnyaku"
 
-  depends_on macos: ">= :tahoe"
+  depends_on macos: :tahoe
 
   app "Konnyaku.app"
 
