@@ -1,6 +1,6 @@
 cask "konnyaku" do
-  version "0.4.0"
-  sha256 "a4bcf66f658360bd7a95895febc96153b9ed6b7be5a1c45016ec9c08f9173255"
+  version "0.5.0"
+  sha256 "4968ee520a63ad3176155c2a80eda54be32cce427b9d81a0aac0761fa33c6e97"
 
   url "https://github.com/kanka-jp/konnyaku/releases/download/v#{version}/Konnyaku-v#{version}.zip"
   name "Konnyaku"
